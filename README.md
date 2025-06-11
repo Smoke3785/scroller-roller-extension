@@ -5,6 +5,7 @@
 [![Iliad Badge][iliad-img]][iliad-url]
 
 </div>
+
 # Scroller Roller Chrome Extension
 
 Scroller Roller is a Chrome extension designed to help you capture smooth, hands-free scrolling videos of your website for case studies, demos, and social media. It provides fine-grained control over scroll animation, speed, acceleration, cursor visibility, and more—making it easy to create professional-looking screen recordings.
