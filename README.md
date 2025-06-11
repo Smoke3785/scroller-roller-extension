@@ -1,5 +1,10 @@
+<div align="center">
+
 <a href="https://iliad.dev/?from=scroller-roller" target="_blank" title="Check out Iliad.dev"><img width="440" alt="scroller-roller" src="https://github.com/Smoke3785/scroller-roller-extension/blob/main/scroller_roller.png?raw=true"></a>
 
+[![Iliad Badge][iliad-img]][iliad-url]
+
+</div>
 # Scroller Roller Chrome Extension
 
 Scroller Roller is a Chrome extension designed to help you capture smooth, hands-free scrolling videos of your website for case studies, demos, and social media. It provides fine-grained control over scroll animation, speed, acceleration, cursor visibility, and more—making it easy to create professional-looking screen recordings.
@@ -44,3 +49,8 @@ Scroller Roller is a Chrome extension designed to help you capture smooth, hands
 ---
 
 **Made for smooth, beautiful video captures of your web projects.**
+
+<!-- Variables -->
+
+[iliad-img]: https://img.shields.io/badge/%E2%97%AD%20%20-Iliad.dev-00ace0?labelColor=04151f&cacheSeconds=https%3A%2F%2Filiad.dev%2F%3Ffrom%3Dgithub-badge
+[iliad-url]: https://iliad.dev/?from=console-mog
