@@ -177,7 +177,7 @@ class ScrollerRoller {
         window.addEventListener("scroll", onUserScroll);
       }
 
-      // deceleration parameters
+      // Deceleration parameters
       const decelDist = 300;
       const minSpeed = 0.5;
 

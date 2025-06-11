@@ -5,26 +5,35 @@ body {
   width: 260px;
   background: #f4f4f8;
   color: #333;
-
-  /* add this: */
   border-radius: 8px;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
 }
+
 h2 {
   margin: 0 0 0.5rem;
   font-size: 1.2rem;
   border-bottom: 1px solid #ddd;
   padding-bottom: 0.25rem;
 }
+
+#config-fields {
+  flex: 1;
+  overflow-y: auto;
+}
+
 .field {
   margin: 0.75rem 0;
 }
+
 label {
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 0.95rem;
 }
+
 input[type="number"] {
   width: 4.5rem;
   padding: 0.2rem;
@@ -32,18 +41,39 @@ input[type="number"] {
   border-radius: 4px;
   font-size: 0.9rem;
 }
+
 input[type="checkbox"] {
   transform: scale(1.2);
   margin-right: 0.5rem;
 }
+
 .site-toggle {
   display: flex;
   align-items: center;
 }
+
 .field input[type="checkbox"]#hide-cursor {
   margin-left: 0.5rem;
 }
 
 .field input[type="number"]#delay {
   width: 5.5rem;
+}
+
+/* Footer styling */
+footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+footer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
