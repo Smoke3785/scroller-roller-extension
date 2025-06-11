@@ -1,4 +1,4 @@
-<a href="https://iliad.dev/?from=scroller-roller" target="_blank" title="Check out Iliad.dev"><img width="440" alt="scroller-roller" src="https://github.com/Smoke3785/scroller-roller-extension/blob/master/scroller_roller.png?raw=true"></a>
+<a href="https://iliad.dev/?from=scroller-roller" target="_blank" title="Check out Iliad.dev"><img width="440" alt="scroller-roller" src="https://github.com/Smoke3785/scroller-roller-extension/blob/main/scroller_roller.png?raw=true"></a>
 
 # Scroller Roller Chrome Extension
 
